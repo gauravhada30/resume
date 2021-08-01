@@ -1,0 +1,72 @@
+{
+    "basics": {
+        "name": " GAURAV HADA ",
+        "label": "Student",
+        "picture": "https://drive.google.com/file/d/1cNfz8M9uvQXKCu981rRuakh1F9XCZq23/view?usp=sharing",
+        "email": "2020kuec2044@iiitkita.ac.in",
+        "phone": "9001852825",
+        "summary": "I am student of IIIT KOTA currently pursuing B-Tech in Electronics and communication Engineering(ECE)",
+        "location": {
+            "address": "1-ch-2 Teachers Colony, Kota,Rajasthan",
+            "postalCode": "324009",
+            "city": "KOTA",
+            "countryCode": "India",
+            "region": "RAJASTHAN"
+        },
+        "profiles": [
+            {
+                "network": "Github",
+                "username": "gauravhada30",
+                "url": "https://github.com/gauravhada30"
+            },
+            {
+                "network": "linkedin",
+                "username": "Gaurav Hada",
+                "url": "https://www.linkedin.com/in/gaurav-hada-07286820b/"
+            },
+            {
+                "network": "Instagram",
+                "username": "_gaurav_hada",
+                "url": "https://instagram.com/_gaurav_hada?utm_medium=copy_link"
+            }
+        ]
+    },
+    "education": [
+        {
+            "institution": "Indian Institute of Information technology,kota",
+            "area": "Engineering",
+            "studyType": "Bachelor of Technology",
+            "gpa": "8.9",
+            "courses": [
+                "Electronics and communication Engineering(ECE)"
+            ]
+        }
+    ],
+    "skills": [
+        {
+            "level": "Intermediate",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "Javascript",
+                "React",
+                "C/C++",
+                "mySql",
+                "PHP",
+                "DSA"
+            ]
+        }
+    ],
+    "interests": [
+        {
+            "name": "Sports",
+            "keywords": [
+                "Chess",
+                "KHO-KHO",
+                "cricket",
+                "table tennis",
+                "Badminton"
+            ]
+        }
+    ]
+}
